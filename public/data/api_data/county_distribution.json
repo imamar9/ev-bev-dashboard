@@ -1,0 +1,62 @@
+[
+  {
+    "county": "King",
+    "count": 140181
+  },
+  {
+    "county": "Snohomish",
+    "count": 35806
+  },
+  {
+    "county": "Pierce",
+    "count": 23596
+  },
+  {
+    "county": "Clark",
+    "count": 17638
+  },
+  {
+    "county": "Thurston",
+    "count": 10404
+  },
+  {
+    "county": "Kitsap",
+    "count": 9728
+  },
+  {
+    "county": "Spokane",
+    "count": 8004
+  },
+  {
+    "county": "Whatcom",
+    "count": 7024
+  },
+  {
+    "county": "Benton",
+    "count": 4156
+  },
+  {
+    "county": "Skagit",
+    "count": 3406
+  },
+  {
+    "county": "Island",
+    "count": 3096
+  },
+  {
+    "county": "Yakima",
+    "count": 2030
+  },
+  {
+    "county": "Chelan",
+    "count": 1840
+  },
+  {
+    "county": "Clallam",
+    "count": 1755
+  },
+  {
+    "county": "Cowlitz",
+    "count": 1552
+  }
+]

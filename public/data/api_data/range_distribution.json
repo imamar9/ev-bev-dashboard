@@ -1,0 +1,102 @@
+[
+  {
+    "range_start": 29.0,
+    "range_end": 44.4,
+    "count": 8
+  },
+  {
+    "range_start": 44.4,
+    "range_end": 59.8,
+    "count": 150
+  },
+  {
+    "range_start": 59.8,
+    "range_end": 75.2,
+    "count": 2689
+  },
+  {
+    "range_start": 75.2,
+    "range_end": 90.6,
+    "count": 5134
+  },
+  {
+    "range_start": 90.6,
+    "range_end": 106.0,
+    "count": 584
+  },
+  {
+    "range_start": 106.0,
+    "range_end": 121.4,
+    "count": 1079
+  },
+  {
+    "range_start": 121.4,
+    "range_end": 136.8,
+    "count": 656
+  },
+  {
+    "range_start": 136.8,
+    "range_end": 152.2,
+    "count": 2780
+  },
+  {
+    "range_start": 152.2,
+    "range_end": 167.6,
+    "count": 108
+  },
+  {
+    "range_start": 167.6,
+    "range_end": 183.0,
+    "count": 63
+  },
+  {
+    "range_start": 183.0,
+    "range_end": 198.4,
+    "count": 100
+  },
+  {
+    "range_start": 198.4,
+    "range_end": 213.8,
+    "count": 5716
+  },
+  {
+    "range_start": 213.8,
+    "range_end": 229.2,
+    "count": 10394
+  },
+  {
+    "range_start": 229.2,
+    "range_end": 244.6,
+    "count": 5555
+  },
+  {
+    "range_start": 244.6,
+    "range_end": 260.0,
+    "count": 2828
+  },
+  {
+    "range_start": 260.0,
+    "range_end": 275.4,
+    "count": 1697
+  },
+  {
+    "range_start": 275.4,
+    "range_end": 290.8,
+    "count": 674
+  },
+  {
+    "range_start": 290.8,
+    "range_end": 306.2,
+    "count": 2766
+  },
+  {
+    "range_start": 306.2,
+    "range_end": 321.6,
+    "count": 569
+  },
+  {
+    "range_start": 321.6,
+    "range_end": 337.0,
+    "count": 2039
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "make": "TESLA",
+    "bev": 117392,
+    "phev": 0
+  },
+  {
+    "make": "CHEVROLET",
+    "bev": 15244,
+    "phev": 4433
+  },
+  {
+    "make": "NISSAN",
+    "bev": 16121,
+    "phev": 0
+  },
+  {
+    "make": "FORD",
+    "bev": 11731,
+    "phev": 3908
+  },
+  {
+    "make": "KIA",
+    "bev": 9965,
+    "phev": 4363
+  },
+  {
+    "make": "TOYOTA",
+    "bev": 2396,
+    "phev": 9838
+  },
+  {
+    "make": "BMW",
+    "bev": 5142,
+    "phev": 6546
+  },
+  {
+    "make": "HYUNDAI",
+    "bev": 9779,
+    "phev": 1288
+  },
+  {
+    "make": "RIVIAN",
+    "bev": 9098,
+    "phev": 0
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "bev": 7658,
+    "phev": 0
+  }
+]

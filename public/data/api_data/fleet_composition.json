@@ -1,0 +1,54 @@
+{
+  "type_counts": {
+    "ICE": 40,
+    "Hybrid": 30
+  },
+  "state_counts": {
+    "NY": 45,
+    "CA": 25
+  },
+  "companies": [
+    "Empire State Logistics",
+    "Hudson Valley Fleet Services",
+    "Brooklyn Delivery Co.",
+    "Upstate Medical Transport",
+    "Long Island Field Services",
+    "Manhattan Corporate Rentals",
+    "Capital Region Utilities",
+    "Bronx Community Health",
+    "Syracuse Distribution Inc.",
+    "Buffalo Heavy Haul",
+    "Westchester Property Services",
+    "Rochester Municipal Fleet",
+    "Queens HVAC Solutions",
+    "Staten Island Contracting",
+    "Albany Government Fleet",
+    "Bay Area Logistics Group",
+    "SoCal Fleet Solutions",
+    "Golden Gate Delivery Co.",
+    "LA Metro Field Services",
+    "Silicon Valley Corporate Mobility"
+  ],
+  "vehicles_count": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    2,
+    2,
+    2,
+    2
+  ]
+}

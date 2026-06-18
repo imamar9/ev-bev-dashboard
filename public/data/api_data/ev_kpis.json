@@ -1,0 +1,12 @@
+{
+  "total_evs": 285822,
+  "bev_count": 229876,
+  "phev_count": 55946,
+  "bev_pct": 80.4,
+  "avg_bev_range": 200.1,
+  "max_bev_range": 337,
+  "unique_makes": 48,
+  "unique_counties": 254,
+  "top_make": "TESLA",
+  "top_make_count": 117392
+}

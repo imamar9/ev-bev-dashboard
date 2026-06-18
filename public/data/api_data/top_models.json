@@ -1,0 +1,62 @@
+[
+  {
+    "make_model": "TESLA MODEL Y",
+    "count": 62154
+  },
+  {
+    "make_model": "TESLA MODEL 3",
+    "count": 38316
+  },
+  {
+    "make_model": "NISSAN LEAF",
+    "count": 13478
+  },
+  {
+    "make_model": "TESLA MODEL S",
+    "count": 7815
+  },
+  {
+    "make_model": "CHEVROLET BOLT EV",
+    "count": 7693
+  },
+  {
+    "make_model": "TESLA MODEL X",
+    "count": 7109
+  },
+  {
+    "make_model": "FORD MUSTANG MACH-E",
+    "count": 6606
+  },
+  {
+    "make_model": "HYUNDAI IONIQ 5",
+    "count": 6565
+  },
+  {
+    "make_model": "VOLKSWAGEN ID.4",
+    "count": 6148
+  },
+  {
+    "make_model": "RIVIAN R1S",
+    "count": 5300
+  },
+  {
+    "make_model": "TOYOTA RAV4 PRIME (PHEV)",
+    "count": 4823
+  },
+  {
+    "make_model": "JEEP WRANGLER",
+    "count": 4684
+  },
+  {
+    "make_model": "KIA NIRO",
+    "count": 4472
+  },
+  {
+    "make_model": "CHEVROLET VOLT",
+    "count": 4433
+  },
+  {
+    "make_model": "FORD F-150",
+    "count": 4211
+  }
+]

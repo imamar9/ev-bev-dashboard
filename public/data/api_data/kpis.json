@@ -1,0 +1,12 @@
+{
+  "total_trips": 7196,
+  "total_vehicles": 70,
+  "total_companies": 27,
+  "pct_trips_in_ev_range": 92.2,
+  "estimated_annual_savings": 46929.41,
+  "feasible_companies": 27,
+  "ev_range_threshold": 300,
+  "ev_bev_pct": 80.4,
+  "ev_total_registered": 285822,
+  "ev_long_range_count": 32238
+}

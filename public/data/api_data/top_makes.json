@@ -1,0 +1,62 @@
+[
+  {
+    "make": "TESLA",
+    "count": 117392
+  },
+  {
+    "make": "CHEVROLET",
+    "count": 19677
+  },
+  {
+    "make": "NISSAN",
+    "count": 16121
+  },
+  {
+    "make": "FORD",
+    "count": 15639
+  },
+  {
+    "make": "KIA",
+    "count": 14328
+  },
+  {
+    "make": "TOYOTA",
+    "count": 12234
+  },
+  {
+    "make": "BMW",
+    "count": 11688
+  },
+  {
+    "make": "HYUNDAI",
+    "count": 11067
+  },
+  {
+    "make": "RIVIAN",
+    "count": 9098
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "count": 7658
+  },
+  {
+    "make": "VOLVO",
+    "count": 7545
+  },
+  {
+    "make": "JEEP",
+    "count": 6551
+  },
+  {
+    "make": "AUDI",
+    "count": 5994
+  },
+  {
+    "make": "CHRYSLER",
+    "count": 3676
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "count": 3397
+  }
+]

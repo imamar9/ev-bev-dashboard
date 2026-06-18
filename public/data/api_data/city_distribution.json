@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Seattle",
+    "count": 43876
+  },
+  {
+    "city": "Bellevue",
+    "count": 13912
+  },
+  {
+    "city": "Vancouver",
+    "count": 10635
+  },
+  {
+    "city": "Redmond",
+    "count": 9794
+  },
+  {
+    "city": "Bothell",
+    "count": 9417
+  },
+  {
+    "city": "Kirkland",
+    "count": 8151
+  },
+  {
+    "city": "Sammamish",
+    "count": 7895
+  },
+  {
+    "city": "Renton",
+    "count": 7616
+  },
+  {
+    "city": "Olympia",
+    "count": 6648
+  },
+  {
+    "city": "Tacoma",
+    "count": 6243
+  },
+  {
+    "city": "Kent",
+    "count": 4906
+  },
+  {
+    "city": "Spokane",
+    "count": 4781
+  },
+  {
+    "city": "Bellingham",
+    "count": 4728
+  },
+  {
+    "city": "Lynnwood",
+    "count": 4675
+  },
+  {
+    "city": "Everett",
+    "count": 4554
+  }
+]
